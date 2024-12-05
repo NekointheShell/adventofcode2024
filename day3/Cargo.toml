@@ -1,0 +1,8 @@
+[package]
+name = "day32"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+readfile = { path = "../readfile" }
+regex = "1.11.1"
